@@ -1,0 +1,26 @@
+# 示例代码
+
+## 目录
+
+### [1. 标识符](01identifier.go)
+### [2. 基础数据类型](02basetype.go)
+### [3. 运算符](03operator.go)
+### [4. 流程控制](04processcontrol.go)
+### [5. 数组](05array.go)
+### [6. 切片](06slice.go)
+### [7. map](07map.go)
+### [8. 函数](08function.go)
+### [9. 作用域](09scope.go)
+### [10. 内置函数](10builtinfunction.go)
+### [11. 指针&new&make](11pointer&new&make.go)
+### [12. 类型别名和自定义类型](12alias.go)
+### [13. 结构体](13struct.go)
+### [14. 方法和接收者](14methodreceiver.go)
+### [15. 结构体的匿名字段](15anonymous.go)
+### [16. 结构体字段的可见性与JSON序列化](16visibility.go)
+### [17. 包](17package.go)
+### [18. 接口](18interface.go)
+### [19. 反射](19reflect.go)
+### [20. 并发之goroutine](20goroutine.go)
+### [21. 并发之channel](21channel.go)
+### [22. 并发之同步&锁](22synchronize&lock.go)

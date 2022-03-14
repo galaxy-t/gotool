@@ -9,7 +9,7 @@ import (
 	// 匿名导入包, 只导入包, 而不使用包内部的数据时, 可以使用匿名导入包
 	// 匿名导入的包与其他方式导入的包一样都会被编译到可执行文件中
 	// 主要是为了使用其内部的初始化函数
-	_ "gotool/example/initexample"
+	//_ "gotool/example/initexample"
 )
 
 /*

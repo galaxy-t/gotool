@@ -30,8 +30,10 @@
 #### [20. 并发之goroutine](2advanced/02goroutine.go)
 #### [21. 并发之channel](2advanced/03channel.go)
 #### [22. 并发之同步&锁](2advanced/04synchronize&lock.go)
-#### [23. IO](2advanced/05io.go)
-#### [24. 日志的使用](2advanced/06logger.go)
+#### [23. OS](2advanced/05os.go)
+#### [24. flag](2advanced/06flag.go)
+#### [25. 日志的使用](2advanced/07logger.go)
+#### [26. 时间类型](2advanced/08time.go)
 
 
 ### 应用层面的工具

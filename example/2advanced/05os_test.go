@@ -13,3 +13,7 @@ func TestF051(t *testing.T) {
 	fmt.Println(s)
 
 }
+
+func TestF052(t *testing.T) {
+	F052()
+}
